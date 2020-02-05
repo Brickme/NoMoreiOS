@@ -1,12 +1,12 @@
-ocsp.int-x3.letsencrypt.org
-ocsp.apple.com
-world-gen.g.aaplimg.com
-mesu.apple.com
-gdmf.apple.com
-www.gdmf.apple.com
-ppq.apple.com
-iadsdk.apple.com
-googleads.g.doubleclick.net
-googletagservices.com
-stats.g.doubleclick.net
-adclick.g.douclick.net
+127.0.0.1 ocsp.int-x3.letsencrypt.org
+127.0.0.1 ocsp.apple.com
+127.0.0.1 world-gen.g.aaplimg.com
+127.0.0.1 mesu.apple.com
+127.0.0.1 gdmf.apple.com
+127.0.0.1 www.gdmf.apple.com
+127.0.0.1 ppq.apple.com
+127.0.0.1 iadsdk.apple.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googletagservices.com
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 adclick.g.douclick.net
